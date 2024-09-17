@@ -1,0 +1,8 @@
+\selectlanguage *{thai}
+\contentsline {section}{\numberline {1}บทนำ (Introduction)}{3}{section.1}%
+\contentsline {section}{\numberline {2}วัตถุประสงค์ของการศึกษา (Purpose of the Study)}{7}{section.2}%
+\contentsline {section}{\numberline {3}วิธีการศึกษา (Methodology)}{9}{section.3}%
+\contentsline {section}{\numberline {4}ผลการศึกษา (Findings)}{10}{section.4}%
+\contentsline {section}{\numberline {5}การอภิปรายผล (Discussion)}{16}{section.5}%
+\contentsline {section}{\numberline {6}ข้อสรุปและข้อเสนอแนะ (Conclusion and Recommendations)}{22}{section.6}%
+\contentsline {section}{เอกสารอ้างอิง}{23}{section.6}%

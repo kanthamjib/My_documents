@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.9.15)  24 SEP 2024 21:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.9.15)  25 SEP 2024 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,95 +558,95 @@ e="Thai" to langtag "") on input line 19.
 )
 \openout1 = `Literature_Review.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+4.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 39.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 39.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 39.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 39.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 39.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 39.
-LaTeX Font Info:    Redeclaring math accent \check on input line 39.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 39.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 39.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 39.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 39.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 39.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 44.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 44.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 44.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 44.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 44.
+LaTeX Font Info:    Redeclaring math accent \check on input line 44.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 44.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 44.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 44.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 39.
+(Font)              `operators' in the math version `normal' on input line 44.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(0)/m/n on input line 39
+(Font)                  OT1/cmr/m/n --> TU/THSarabunNew(0)/m/n on input line 44
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 39.
+(Font)              `operators' in the math version `bold' on input line 44.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/m/n on input line 3
-9.
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/m/n on input line 4
+4.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/m/n on in
-put line 39.
+put line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/THSarabunNew(0)/m/it on input line 
-39.
+44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/b/n on input line 3
-9.
+(Font)                  OT1/cmr/bx/n --> TU/THSarabunNew(0)/b/n on input line 4
+4.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 39.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 39.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/THSarabunNew(0)/m/n --> TU/THSarabunNew(0)/b/n on in
-put line 39.
+put line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/THSarabunNew(0)/b/it on input line
- 39.
+ 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 39.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 39.
-Package hyperref Info: Link coloring OFF on input line 39.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+Package hyperref Info: Link coloring OFF on input line 44.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -659,9 +659,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count306
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 
 (./Literature_Review.out) (./Literature_Review.out)
 \@outlinefile=\write3
@@ -702,55 +702,22 @@ LaTeX Info: Redefining \nameref on input line 39.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 39.
-LaTeX Info: Redefining \rmfamily on input line 39.
-LaTeX Info: Redefining \sffamily on input line 39.
-LaTeX Info: Redefining \ttfamily on input line 39.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 44.
+LaTeX Info: Redefining \rmfamily on input line 44.
+LaTeX Info: Redefining \sffamily on input line 44.
+LaTeX Info: Redefining \ttfamily on input line 44.
 
 Package polyglossia Warning: Asking to add empty feature to latin font(Script="
-latin" to scripttag "") on input line 39.
+latin" to scripttag "") on input line 44.
 
 
 Package polyglossia Warning: Asking to add empty feature to latin font (Languag
-e="Thai" to langtag "") on input line 39.
+e="Thai" to langtag "") on input line 44.
 
 \thai@year=\count307
-
-Overfull \hbox (10.13498pt too wide) in paragraph at lines 59--60
-[]\TU/THSarabunNew(0)/m/n/16 เนื้อหาในรายงานฉบับนี้ได้สรุปความในเอกสารทางวิชากา
-รหัวข้อ A Survey of High-Performance Computing
- []
-
-
-Overfull \hbox (20.71213pt too wide) in paragraph at lines 59--60
-\TU/THSarabunNew(0)/m/n/16 อรุณ โดยผู้เขียนทั้งสองได้เน้นการนำเสนอรายละเอียดควา
-มเป็นมาของโครงสร้างพื้นฐานของเทคโนโลยีการประมวล
- []
-
-
-Overfull \hbox (10.98297pt too wide) in paragraph at lines 59--60
-\TU/THSarabunNew(0)/m/n/16 และสถาบันการวิจัยระดับชาติอย่าง ศูนย์ทรัพยากรคอมพิวเ
-ตอร์เพื่อการคำนวณขั้นสูง (NSTDA Supercomputer
- []
-
-
-Overfull \hbox (11.81496pt too wide) in paragraph at lines 59--60
-\TU/THSarabunNew(0)/m/n/16 Center: ThaiSC) เพื่อให้ผู้ที่กำลังศึกษาหรือกำลังจะศ
-ึกษาค้นคว้าวิจัยในสายงานนี้มีความเข้าใจภาพรวมของ HPC
- []
-
-
-Overfull \hbox (16.95094pt too wide) in paragraph at lines 59--60
-\TU/THSarabunNew(0)/m/n/16 ในประเทศไทย รวมถึงผู้แต่งยังได้นำเสนอแนวทางการประยุก
-ต์ใช้ HPC ในภาคอุตสาหกรรมตั้งแต่อดีตจนถึงปัจจุบัน
- []
-
-
-Overfull \hbox (41.72014pt too wide) in paragraph at lines 59--60
-\TU/THSarabunNew(0)/m/n/16 เพื่อการเป็นศูนย์กลางด้านการศึกษาวิจัยระดับชาติ ซึ่ง
-อยู่ภายใต้การกำกับดูแลโดยสำนักงานบริหารเทคโนโลยีสารสนเทศ
- []
-
+File: images/Seal_of_King_Mongkut's_Institute_of_Technology_Ladkrabang.png Grap
+hic file (type bmp)
+<images/Seal_of_King_Mongkut's_Institute_of_Technology_Ladkrabang.png>
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 24.89804pt, for example:
@@ -798,11 +765,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
 
 [3]
-Overfull \hbox (5.6721pt too wide) in paragraph at lines 89--90
-[]\TU/THSarabunNew(0)/m/n/16 ซูเปอร์คอมพิวเตอร์ คือ คอมพิวเตอร์ที่มีประสิทธิภาพ
-ในการประมวลผลสูงที่สุดเมื่อเทียบกับคอมพิวเตอร์ 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 24.89804pt, for example:
@@ -812,24 +774,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
 
 [4]
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 120.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 120.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 120.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 120.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 120.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 24.89804pt, for example:
@@ -866,165 +810,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
 
 [8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[9]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[10]
-Overfull \hbox (2.50401pt too wide) in paragraph at lines 201--202
-\TU/THSarabunNew(0)/m/n/16 Carnegie Mellon University และ King Mongkut’s Instit
-ute of Technology Ladkrabang 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[12]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[13]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[15]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[17]
-Overfull \hbox (16.18407pt too wide) in paragraph at lines 286--287
-\TU/THSarabunNew(0)/b/n/16 Review of Detection and Protection Strategies\TU/THS
-arabunNew(0)/m/n/16 ” โดย S Koleini และ B Pahlevanzadeh  
- []
-
-
-Overfull \hbox (2.1041pt too wide) in paragraph at lines 288--289
-[]\TU/THSarabunNew(0)/m/n/16 งานวิจัยนี้มีแนวคิดหลักเกี่ยวกับการแก้ไขปัญหาด้านค
-วามปลอดภัยที่เพิ่มขึ้นในระบบคอมพิวเตอร์ 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[18]
-Overfull \hbox (5.73607pt too wide) in paragraph at lines 300--301
-[]\TU/THSarabunNew(0)/m/n/16 งานวิจัยนี้มีแนวคิดเกี่ยวกับการทำ Scheduling Metho
-d ที่คำนึงถึงพลังงานในระบบคอมพิวเตอร์ 
- []
-
-
-Overfull \hbox (13.4001pt too wide) in paragraph at lines 307--308
-[]\TU/THSarabunNew(0)/m/n/16 การจัดการงานประมวลผลและการจัดลำดับงานในคลัสเตอร์ H
-PC (Job Management and Scheduling 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[19]
-Overfull \hbox (11.6561pt too wide) in paragraph at lines 320--321
-\TU/THSarabunNew(0)/m/n/16 ประสิทธิภาพการถ่ายโอนข้อมูลขนาดใหญ่ ด้วยการวิจัยและอ
-อกแบบโปรโตคอลเครือข่ายที่มีประสิทธิภาพ 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[20]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[21]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.89804pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.89804pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 341--341
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []\TU/THSarabunNew(0)/b/n/18 เอกสารอ้างอิง|
  []
 
@@ -1070,7 +856,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-12.89804pt}.
 
-[23] (./Literature_Review.aux
+[9] (./Literature_Review.aux
 LaTeX Info: Redefining \rmfamily on input line 19.
 LaTeX Info: Redefining \sffamily on input line 19.
 LaTeX Info: Redefining \ttfamily on input line 19.
@@ -1085,20 +871,16 @@ e="Thai" to langtag "") on input line 19.
 
 \thai@year=\count309
 )
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.28pt have occurred.
-
 Package rerunfilecheck Info: File `Literature_Review.out' has not changed.
-(rerunfilecheck)             Checksum: 0290DEBF08F62403B2226D90602548DD;1667.
+(rerunfilecheck)             Checksum: 7CBFF54E2F53EA39990A99073417D3BD;1007.
  ) 
 Here is how much of TeX's memory you used:
- 14019 strings out of 477763
- 282425 string characters out of 5843920
- 646224 words of memory out of 5000000
- 34457 multiletter control sequences out of 15000+600000
- 473224 words of font info for 65 fonts, out of 8000000 for 9000
+ 13999 strings out of 477763
+ 282454 string characters out of 5843920
+ 634645 words of memory out of 5000000
+ 34441 multiletter control sequences out of 15000+600000
+ 469795 words of font info for 51 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
- 87i,12n,91p,1067b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,11n,91p,426b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Literature_Review.xdv (23 pages, 488436 bytes).
+Output written on Literature_Review.xdv (9 pages, 17724 bytes).

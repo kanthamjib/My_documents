@@ -1,22 +1,12 @@
 # Fdb version 3
-["xdvipdfmx"] 1727189669 "Literature_Review.xdv" "Literature_Review.pdf" "Literature_Review" 1727189669
-  "Literature_Review.xdv" 1727189669 488436 e6fae14259b7f6b98b84632c393e4738 "xelatex"
+["xdvipdfmx"] 1727247296 "Literature_Review.xdv" "Literature_Review.pdf" "Literature_Review" 1727247296
+  "Literature_Review.xdv" 1727247295 17724 6c511fbe59faf015cc31b35bd2aac9c6 "xelatex"
   (generated)
   "Literature_Review.pdf"
-["xelatex"] 1727189667 "Literature_Review.tex" "Literature_Review.xdv" "Literature_Review" 1727189669
+["xelatex"] 1727247293 "Literature_Review.tex" "Literature_Review.xdv" "Literature_Review" 1727247296
   "/etc/texmf/web2c/texmf.cnf" 1726307478 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -92,10 +82,11 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1726413908 3719798 c528e76dc663fc771338643065449158 ""
-  "Literature_Review.aux" 1727189669 2007 1a3c6ffdaaf7e08e5838a2c82b3e3376 "xelatex"
-  "Literature_Review.out" 1727189669 1667 0290debf08f62403b2226d90602548dd "xelatex"
-  "Literature_Review.tex" 1727189664 111319 8f1c2f7ea89da3893a196e3e19b9dfbd ""
-  "Literature_Review.toc" 1727189669 796 c1ce44a99e1fec3672d32c805e323700 "xelatex"
+  "Literature_Review.aux" 1727247295 1962 d48d94798c9fe517c97ff26967de3c27 "xelatex"
+  "Literature_Review.out" 1727247295 1007 7cbff54e2f53ea39990a99073417d3bd "xelatex"
+  "Literature_Review.tex" 1727247289 4760 01fe444ff01f2db7c8a9ba8f2635c073 ""
+  "Literature_Review.toc" 1727247295 609 7f904a75d5ccc44deca89d914c7124b4 "xelatex"
+  "images/Seal_of_King_Mongkut's_Institute_of_Technology_Ladkrabang.png" 1727192765 256435 07748685775f295f521ca81b9ac77878 ""
   (generated)
   "Literature_Review.aux"
   "Literature_Review.log"
